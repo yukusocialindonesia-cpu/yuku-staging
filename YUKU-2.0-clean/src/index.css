@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+/* Custom brand gradients and utilities */
+.bg-yuku-gradient {
+  background: linear-gradient(135deg, #1e0938 0%, #300f5c 50%, #4a154b 100%);
+}
+
+.text-yuku-gradient {
+  background: linear-gradient(135deg, #7c3aed 0%, #c026d3 50%, #f97316 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-yuku-accent {
+  background: linear-gradient(135deg, #9333ea 0%, #db2777 50%, #f97316 100%);
+}

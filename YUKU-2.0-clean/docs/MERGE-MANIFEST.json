@@ -1,0 +1,26 @@
+{
+  "canonical_project": "Checkpoint 07 Revisi 03 + QRIS handoff",
+  "claude_reference": "Remediation Checkpoint 05 (original zip preserved and extracted separately)",
+  "overlap_count": 111,
+  "changed_conflict_files": [
+    "package.json",
+    "vite.config.ts",
+    ".env.example",
+    "tsconfig.json",
+    "README.md",
+    "src/vite-env.d.ts",
+    "supabase/migrations/README.md",
+    "src/pages/TalentDetailPage.tsx",
+    "src/pages/VerifyKtpPage.tsx",
+    "src/pages/TalentDashboardPage.tsx",
+    "src/pages/AdminPage.tsx",
+    "src/pages/BookingHistoryPage.tsx",
+    "src/types/database.ts",
+    "src/components/home/SafetySection.tsx"
+  ],
+  "claude_only_files": [
+    "supabase/migrations/23_prelaunch_hardening.sql"
+  ],
+  "main_file_count": 181,
+  "claude_file_count": 112
+}

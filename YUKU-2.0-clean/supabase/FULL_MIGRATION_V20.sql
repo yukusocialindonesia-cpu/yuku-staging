@@ -1,0 +1,12 @@
+-- ============================================================================
+-- YUKU 2.0 — LEGACY FILE RETIRED / DO NOT EXECUTE
+-- The previous file named FULL_MIGRATION_V20.sql contained only a partial set
+-- of migrations and was not a complete database installation bundle.
+-- Its contents are preserved at:
+-- supabase/legacy/FULL_MIGRATION_V20_PARTIAL_ARCHIVE.sql
+--
+-- Apply the numbered files in supabase/migrations/README.md in exact order.
+-- The current migration chain extends through migration 22.
+-- Use a clean Supabase STAGING project first. Never paste this file into SQL
+-- Editor expecting it to install or repair the database.
+-- ============================================================================
